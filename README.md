@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Development in SoftUni**
 
-- 👨‍💻 All of my projects at SoftUni are available at [https://github.com/Mar123ian/SoftUni]([https://github.com/Mar123ian](https://github.com/Mar123ian/SoftUni))
+- 👨‍💻 All of my projects at SoftUni are available at [https://github.com/Mar123ian/SoftUni](https://github.com/Mar123ian/SoftUni)
 
 - 📫 How to reach me **mario.mg.sz.08@gmail.com**
 
