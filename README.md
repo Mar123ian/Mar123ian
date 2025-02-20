@@ -2,9 +2,11 @@
 <h3 align="center" style="color: orange;">I'm learning to code.</h3><p align="center">
   <img src="https://komarev.com/ghpvc/?username=mar123ian&label=Profile%20views&color=FFA500&style=flat" alt="Profile Views" />
 </p><p align="center">
+  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mar123ian&theme=onestar&margin-w=15&no-frame=true" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mar123ian&theme=juicyfresh&column=3&margin-w=15&margin-h=15" alt="GitHub Trophy" />
   </a>
+</p>
 
 
 - 🌱 I’m currently learning **Python Development in SoftUni**
